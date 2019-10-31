@@ -10,6 +10,7 @@
 - End point can be accessed like this: `http://localhost:8888/v1/mock/level`
 
 ## Add mock end point
+- Open main.go file
 - Create a function with router as parameter (use addLevelMockAPI function as sample)
 - Set the desired API end point URL
 - Set the response data
